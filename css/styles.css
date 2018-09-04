@@ -120,7 +120,7 @@ NAVBAR
   font-family: roboto; /*made font-family roboto*/
 }
 
-li {
+li.nav-btn {
   text-decoration: none;
   list-style-type: none;
   color: black;
